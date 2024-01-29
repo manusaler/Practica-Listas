@@ -1,0 +1,17 @@
+h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+}
+
+ol, ul {
+    margin-bottom: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+.recipe {
+    margin-bottom: 40px;
+}
+
